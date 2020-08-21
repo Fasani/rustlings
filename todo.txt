@@ -1,0 +1,6 @@
+What is the default number type in rust?
+Is &str stack allocated? And String a buffer / memory?
+What is the correct term for stack and for hardcoded vs memory?
+Ternary operator example in rust? (if1.rs) 1 liner is else?
+Largest motor way number of lanes? 11 vs 6?
+Watch a video on the difference between string and string slice in rust?
